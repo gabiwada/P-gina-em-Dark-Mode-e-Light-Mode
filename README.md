@@ -1,1 +1,1 @@
-# P-gina-em-Dark-Mode-e-Light-Mode
+# Pagina-em-Dark-Mode-e-Light-Mode
